@@ -1,0 +1,79 @@
+a		{text-decoration: none;}
+a:link		{color: #d3dba7;}
+a:visited	{color: #b8bf93;}
+a:active	{color: #f6ffc9;}
+a:hover		{color: #f6ffc9; text-decoration: none;}
+body		{color: #777c54; background-color: #000000; background-image: url(images/lrp_k2.jpg); background-repeat: no-repeat;}
+
+p     {text-align: right;}
+.menu_up {
+         float: left;
+         position: absolute; top: 140px; left: 31px;
+         width: 200px;
+         height: 228px;
+         margin: 0px;
+         padding: 0px;
+        }
+.menu_down {
+         float: left;
+         position: absolute; top: 463px; left: 31px;
+         width: 200px;
+         margin: 0px;
+         padding: 0px;
+        }
+.text  {
+         background-image: URL('images/line.gif'); background-repeat: repeat-y;
+         position: absolute; top: 113px; left: 206px;
+         width: 701px;
+        
+        }
+.text2 {
+        margin: 0px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+.paticka {
+         background-image: URL('images/line1.gif'); background-repeat: no-repeat;
+         position: absolute; left: 0%; top: 100%;
+         width: 701px;
+         height: 2px;
+         }
+.pocitadlo{
+        position: absolute; top: 530px; left: 70px;
+      }
+.clenove{
+      position: absolute; top: 113px; left: 222px;
+      width: 554px;
+      height: 679px;
+      }
+.clenove_menu{
+      position: absolute; left: 62px;
+      width: 554px;
+      height: 21px;
+      }
+.clenove_karta{
+      background-image: URL('images/clenove_background.jpg'); background-repeat: no-repeat;
+      font: 12px Bookman Old Style;
+      color: #555555;
+      position: absolute; top: 21px;
+      width: 554px;
+      height: 658px;
+      }
+.foto{
+      position: absolute; left: 77px; top: 13px;
+      }
+.prvni {
+    position: absolute; left: 202px; top: 20px;
+    }
+.druha{
+  position: absolute; left: 202px; top: 39px;
+  }
+.treti{
+  position: absolute; left: 100px; top: 170px;
+  width: 350px;
+  }
+.ctvrta{
+  position: absolute; left: 110px; top: 480px;
+  }
